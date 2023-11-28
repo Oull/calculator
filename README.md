@@ -1,3 +1,4 @@
-# calculator
+# Calculator
+
 //test
-Calculator project for software engineering 
+Calculator project for software engineering
